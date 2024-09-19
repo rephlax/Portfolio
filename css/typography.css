@@ -1,0 +1,138 @@
+:root {
+    /*Font Sizing*/
+    --xl-title-size: 9.813rem;
+    --lg-title-size: 4rem;
+    --title-1-size: 1.75rem;
+    --title-2-size: 1.375rem;
+    --title-3-size: 1.25rem;
+    --headline-size: 1.063rem;
+    --body-size: 1.063rem;
+    --callout-size: 1rem;
+    --subheadline-size: 0.938rem;
+    --footer-size: 0.813rem;
+    --caption-size: 0.75rem;
+    --caption-2-size: 0.688rem;
+    /*Font Weights*/
+    --xl-title-weight: 400;
+    --lg-title-norm-weight: 400;
+    --lg-title-bold-weight: 700;
+    --title-1-norm-weight: 400;
+    --title-1-bold-weight: 700;
+    --title-2-norm-weight: 400;
+    --title-2-bold-weight: 700;
+    --title-3-norm-weight: 400;
+    --title-3-bold-weight: 600;
+    --headline-weight: 600;
+    --body-norm-weight: 400;
+    --body-bold-weight: 600;
+    --callout-norm-weight: 400;
+    --callout-bold-weight: 600;
+    --subheadline-norm-weight: 400;
+    --subheadline-bold-weight: 600;
+    --footer-norm-weight: 400;
+    --footer-bold-weight: 600;
+    --caption-norm-weight: 400;
+    --caption-bold-weight: 500;
+    --caption-2-norm-weight: 400;
+    --caption-2-bold-weight: 600;
+
+    /*Letter spacing and line height*/
+
+    --norm-letter-spacing: -0.4px;
+    --xl-title-letter-spacing: -13px;
+
+    --xl-title-lineheight: 163px;
+    --lg-title-lineheight: 60px;
+    --title-1-lineheight: 34px;
+    --title-2-lineheight: 28px;
+    --title-3-lineheight: 25px;
+    --headline-lineheight: 22px;
+    --body-lineheight: 22px;
+    --callout-lineheight: 21px;
+    --subheadline-lineheight: 20px;
+    --footnote-lineheight: 18px;
+    --caption-1-lineheight: 16px;
+    --caption-2-lineheight: 13px;
+
+    /*colours*/
+    /*Light mode colours*/
+
+    --system-red-light: #FF3B30;
+    --system-orange-light: #FF9500;
+    --system-yellow-light: #FFCC00;
+    --system-green-light: #34C759;
+    --system-mint-light: #00C7BE;
+    --system-teal-light: #30B0C7;
+    --system-cyan-light: #32ADE6;
+    --system-blue-light: #007AFF;
+    --system-indigo-light: #5856D6;
+    --system-purple-light: #AF52DE;
+    --system-pink-light: #FF2D55;
+    --system-brown-light: #A2845E;
+
+    --system-black-light: black;
+    --system-gray-light: #8E8E93;
+    --system-gray2-light: #AEAEB2;
+    --system-gray3-light: #C7C7CC;
+    --system-gray4-light: #D1D1D6;
+    --system-gray5-light: #E5E5EA;
+    --system-gray6-light: #F2F2F7;
+    --system-white-light: #ffffff;
+
+    /* Dark mode colours*/
+
+    --system-red-dark: #FF483E;
+    --system-orange-dark: #FF9F0A;
+    --system-yellow-dark: #FFD60A;
+    --system-green-dark: #30D158;
+    --system-mint-dark: #63E6E2;
+    --system-teal-dark: #40CBE0;
+    --system-cyan-dark: #64D2FF;
+    --system-blue-dark: #0A84FF;
+    --system-indigo-dark: #5E5CE6;
+    --system-purple-dark: #BF5AF2;
+    --system-pink-dark: #FF375F;
+    --system-brown-dark: #AC8E68;
+
+    --system-black-dark: #000000;
+    --system-gray-dark: #8E8E93;
+    --system-gray2-dark: #636366;
+    --system-gray3-dark: #48484A;
+    --system-gray4-dark: #3A3A3C;
+    --system-gray5-dark: #2C2C2E;
+    --system-gray6-dark: #1C1C1E;
+    --system-white-dark: #ffffff;
+
+    /* Background colours */
+    --primary-background-light: #F4F8FD;
+    --secondary-background-light: #F2F2F7;
+    --tertiary-background-light: #E9E9EF; 
+
+    --primary-background-dark: #161618;
+    --secondary-background-dark: #232326;
+    --tertiary-background-dark: rgba(28, 28, 31, 0.60); 
+
+    /* Main colours */
+    --primary-main: #f72585;
+    --secondary-main: #7209b7;
+    --tertiary-main: #3a0ca3;
+
+    /* Label colours */
+
+    --primary-label-light: #142120;
+    --secondary-label-light: rgba(20, 33, 32, 0.80);
+    --tertiary-lable-light: rgba(20, 33, 32, 0.30);
+
+    --primary-label-dark: #FFFDF2;
+    --secondary-label-dark: rgba(255, 253, 242, 0.80);
+    --tertiary-lable-dark: rgba(255, 253, 242, 0.30);
+
+    /* Fill colours */
+    --primary-fill-light: rgba(120, 120, 128, 0.20);
+    --secondary-fill-light: rgba(120, 120, 128, 0.16);
+    --tertiary-fill-light: rgba(118, 118, 128, 0.12);
+
+    --primary-fill-dark: rgba(120, 120, 128, 0.36);
+    --secondary-fill-dark: rgba(120, 120, 128, 0.32);
+    --tertiary-fill-dark: rgba(118, 118, 128, 0.24);
+}
